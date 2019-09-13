@@ -1,1 +1,10 @@
 node_modules
+test.js
+dist/
+.DS_Store
+electron-source/dist/
+electron-source/assets/
+electron-build/
+.idea*
+
+package-lock.json
