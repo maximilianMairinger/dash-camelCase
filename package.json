@@ -1,0 +1,26 @@
+{
+  "name": "dash-camelcase",
+  "version": "1.0.0",
+  "description": "dash or camelCase conversion",
+  "main": "dist/dash-camelcase.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximilianMairinger/dash-camelCase.git"
+  },
+  "keywords": [
+    "dash",
+    "cmalecase"
+  ],
+  "author": "Maximilian Mairinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximilianMairinger/dash-camelCase/issues"
+  },
+  "homepage": "https://github.com/maximilianMairinger/dash-camelCase#readme",
+  "dependencies": {
+    "typescript": "^3.6.3"
+  }
+}
