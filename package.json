@@ -1,6 +1,6 @@
 {
   "name": "dash-camelcase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dash or camelCase conversion",
   "main": "dist/dash-camelcase.js",
   "scripts": {
